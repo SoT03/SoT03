@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bogdan Żygadło</h1>
 <h3 align="center">A passionate React Frontend Developer from Poland</h3>
 
-- 🌱 I’m currently learning **how to write better code and basics of backend.**
+- 🌱 I’m currently learning **how to write better code and basics of express.js, node.js REST APIs and databases.**
 
 - 👨‍💻 All of my projects are available at [https://sotwebdev.pro](https://sotwebdev.pro)
 
